@@ -10,5 +10,18 @@ border: none;
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    background-color: rgb(0, 255, 98);
+    color: #3a3a3a;
 }
+
+/* Headings and logos */
+h1, h2 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+    }
+
+#logo {
+    float: left;
+    font-size: 280%;
+    }
